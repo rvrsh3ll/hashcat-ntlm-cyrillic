@@ -10,7 +10,7 @@ does the proper conversions automatically.
 
 ## Setup
 ~~~
-Replace the [openssl_init] section with the contents of openssl.cnf in this repository
+Replace the [openssl_init] section of your /etc/ssl/openssl.cnf with the contents of openssl.cnf in this repository
 ~~~
 
 ~~~
