@@ -9,6 +9,9 @@ custom charset, converted to utf16le & presented in hex. This script
 does the proper conversions automatically.
 
 ## Setup
+~~~
+Replace the [openssl_init] section with the contents of openssl.cnf in this repository
+~~~
 
 ~~~
 $ git clone ...
